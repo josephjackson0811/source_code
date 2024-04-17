@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.88ad8138.css",
+    "main.js": "/static/js/main.c00c401c.js",
+    "static/media/Avartar.jpg": "/static/media/Avartar.50bc82de8fb220ef2450.jpg",
+    "static/media/logo.svg": "/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/index.html",
+    "main.88ad8138.css.map": "/static/css/main.88ad8138.css.map",
+    "main.c00c401c.js.map": "/static/js/main.c00c401c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88ad8138.css",
+    "static/js/main.c00c401c.js"
+  ]
+}
